@@ -1,0 +1,4 @@
+/ThriftTest/bin/com/greenline/thrift/test/*.class
+/ThriftTest/*.classpath
+/ThriftTest/*.project
+/ThriftTest/.settings
